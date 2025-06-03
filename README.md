@@ -1,5 +1,5 @@
 # geneva-hrd
-Graaphical interface (R/shiny) to the oncoscanR package for computing the HRD score used by the Geneva HRD test.
+Graphical interface (R/shiny) to the oncoscanR package for computing the HRD score used by the Geneva HRD test.
 
 https://github.com/yannchristinat/oncoscanR
 
